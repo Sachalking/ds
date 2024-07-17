@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "News_sever.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node News_sever.js"
@@ -12,6 +12,8 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.19.2",
-    "firebase": "^10.12.3"
-  }
+    "firebase": "^10.12.3",
+    "vercel": "^35.0.2"
+  },
+  "devDependencies": {}
 }
