@@ -40,7 +40,7 @@ const url = "https://us13.api.mailchimp.com/3.0/lists/126a0d9b40 ";
 
 const options = {
   method: 'POST',
-  auth:"sacah:6056d9d85bbec9593629de5bcedabb60-us13"
+  auth:"sacah:3875e9988eae38756edcf396227ab068-us13"
 };
 
 
@@ -71,8 +71,8 @@ app.listen(process.env.PORT || 3000,function(){
 
 
 //API 
-// 6056d9d85bbec9593629de5bcedabb60-us13
+// 3875e9988eae38756edcf396227ab068-us13
 
 
 //list 
-// 126a0d9b40  fix it
+// 126a0d9b40  
